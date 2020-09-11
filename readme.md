@@ -8,6 +8,10 @@
 3. react-native run-android
 
 // 如遇不能正常启动，在运行
+asasasasjasjhjhsajhajhasjhas
+
+asjashjhasjhsajhasjhsahj
+ahjajsjhasjhasjhsa
 
 1.npm start
 
